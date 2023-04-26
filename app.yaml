@@ -5,11 +5,12 @@ service_account: team3-390@rice-comp-539-spring-2022.iam.gserviceaccount.com
 
 handlers:
   - url: /
-    static files: build/index.html
+    static_files: build/index.html
     upload: build/index.html
   - url: /
-    static dir: build
+    static_dir: build
   - url: /static
-    static dir: build/static
+    static_dir: build/static
+
 
 # [END gae_flex_quickstart_yaml]
