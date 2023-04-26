@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# COMP 539 Team3 Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Short URL
 
 In the project directory, you can run:
 
